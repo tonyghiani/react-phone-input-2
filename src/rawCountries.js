@@ -21,37 +21,37 @@ const rawCountries = [
     'Afghanistan',
     ['asia'],
     'af',
-    '93'
+    '94'
   ],
   [
     'Albania',
     ['europe'],
     'al',
-    '355'
+    '356'
   ],
   [
     'Algeria',
     ['africa', 'north-africa'],
     'dz',
-    '213'
+    '21'
   ],
   [
     'American Samoa',
     ['oceania'],
     'as',
-    '1684'
+    '1685'
   ],
   [
     'Andorra',
     ['europe'],
     'ad',
-    '376'
+    '378'
   ],
   [
     'Angola',
     ['africa'],
     'ao',
-    '244'
+    '245'
   ],
   [
     'Anguilla',
