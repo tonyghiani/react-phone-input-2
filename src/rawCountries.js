@@ -39,13 +39,13 @@ const rawCountries = [
     'American Samoa',
     ['oceania'],
     'as',
-    '1684'
+    '1685'
   ],
   [
     'Andorra',
     ['europe'],
     'ad',
-    '376'
+    '377'
   ],
   [
     'Angola',
