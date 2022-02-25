@@ -21,19 +21,19 @@ const rawCountries = [
     'Afghanistan',
     ['asia'],
     'af',
-    '93'
+    '94'
   ],
   [
     'Albania',
     ['europe'],
     'al',
-    '355'
+    '356'
   ],
   [
     'Algeria',
     ['africa', 'north-africa'],
     'dz',
-    '213'
+    '21'
   ],
   [
     'American Samoa',
