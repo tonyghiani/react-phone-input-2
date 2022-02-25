@@ -51,7 +51,7 @@ const rawCountries = [
     'Angola',
     ['africa'],
     'ao',
-    '244'
+    '245'
   ],
   [
     'Anguilla',
